@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋, I'm Vansh Ghanchi
 
-<!--
-**Vansh-Ghanchi/Vansh-Ghanchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I am currently pursuing a 5-year Integrated M.Sc. in Information Technology at Gandhinagar University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about Data Analytics and continuously improving my skills through practical learning, projects, certifications, and hackathons.
+
+---
+
+## 💻 Tech Stack
+
+- Python
+- NumPy
+- Pandas
+- SQL
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+- Git
+- GitHub
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Pandas
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Matplotlib (Next)
+
+---
+
+## 🚀 Featured Projects
+
+- AI Money Mentor
+- College Management System
+- Pandas Practice Repository (Coming Soon)
+- Data Analytics Projects (Coming Soon)
+
+---
+
+## 🏆 Certifications
+
+- Deloitte Data Analytics Job Simulation
+- IBM SkillsBuild
+- Microsoft AI
+- Artificial Intelligence Mastery
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/ghanchi-vansh-aab168405
+- Email: rathodvansh28@gmail.com
