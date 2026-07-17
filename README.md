@@ -8,6 +8,8 @@ I am passionate about Data Analytics and continuously improving my skills throug
 
 ---
 
+## 💻 Tech Stack
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -20,7 +22,7 @@ I am passionate about Data Analytics and continuously improving my skills throug
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -29,7 +31,7 @@ I am passionate about Data Analytics and continuously improving my skills throug
 - Advanced Pandas
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
-- Matplotlib (Next)
+- Matplotlib
 
 ---
 
@@ -37,7 +39,7 @@ I am passionate about Data Analytics and continuously improving my skills throug
 
 - AI Money Mentor
 - College Management System
-- Pandas Practice Repository (Coming Soon)
+- Pandas Practice (Coming Soon)
 - Data Analytics Projects (Coming Soon)
 
 ---
@@ -56,19 +58,20 @@ I am passionate about Data Analytics and continuously improving my skills throug
 - LinkedIn: https://www.linkedin.com/in/ghanchi-vansh-aab168405
 - Email: rathodvansh28@gmail.com
 
-- ---
+---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vansh-Ghanchi&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-Ghanchi&layout=compact&theme=tokyonight" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vansh-Ghanchi&show_icons=true&theme=github_dark&cache_seconds=1800"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-Ghanchi&layout=compact&theme=github_dark&cache_seconds=1800"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vansh-Ghanchi&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Vansh-Ghanchi&theme=github-dark-blue"/>
 </p>
