@@ -64,3 +64,11 @@ I am passionate about Data Analytics and continuously improving my skills throug
   <img src="https://github-readme-stats.vercel.app/api?username=Vansh-Ghanchi&show_icons=true&theme=tokyonight" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-Ghanchi&layout=compact&theme=tokyonight" height="170"/>
 </p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vansh-Ghanchi&theme=tokyonight"/>
+</p>
